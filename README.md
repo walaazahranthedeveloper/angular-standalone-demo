@@ -1,4 +1,4 @@
-# AngularStandaloneDemo
+# AngularLifecycleDemo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.5.
 
@@ -25,3 +25,16 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+## Description 
+
+### Components are core to Angular, representing both the view and logic of the UI.
+
+ #### Angular has a powerful DI system that allows services to be injected into components or other services.
+
+  ##### Creating Services: Learn how to create a service using the @Injectable decorator.
+  ##### Dependency Injection: Understand how Angular’s DI works, using providers to register services at different levels (module, component).
+  ##### Hierarchical Injector: Study how Angular’s injector works and how services can be scoped to modules or components.
+
+## Demo
+
+[standalone component with service usage]([https://github.com/walaazahranthedeveloper/angular-lifecycle-demo/blob/master/Screenshot%202024-09-19%20171719.png](https://github.com/walaazahranthedeveloper/angular-standalone-demo/blob/master/screencapture-localhost-4200-2024-09-20-18_19_42.png))
