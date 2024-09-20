@@ -37,4 +37,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Demo
 
-[standalone component with service usage]([https://github.com/walaazahranthedeveloper/angular-lifecycle-demo/blob/master/Screenshot%202024-09-19%20171719.png](https://github.com/walaazahranthedeveloper/angular-standalone-demo/blob/master/screencapture-localhost-4200-2024-09-20-18_19_42.png))
+[standalone component with service usage](https://github.com/walaazahranthedeveloper/angular-lifecycle-demo/blob/master/Screenshot%202024-09-19%20171719.png)
