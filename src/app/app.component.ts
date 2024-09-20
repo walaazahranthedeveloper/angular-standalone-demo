@@ -1,17 +1,13 @@
 import { Component } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
+import { StandaloneComponent } from './standalone/standalone.component'; // Import the standalone component
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [RouterOutlet],
+  imports: [StandaloneComponent],  // Include the standalone component
   template: `
-    <h1>Welcome to {{title}}!</h1>
-
-    <router-outlet />
+    <h1>Angular Standalone Component Demo</h1>
+    <app-standalone></app-standalone>
   `,
-  styles: [],
 })
-export class AppComponent {
-  title = 'angular-standalone-demo';
-}
+export class AppComponent {}
